@@ -48,7 +48,7 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 ul {
@@ -56,8 +56,6 @@ ul {
   padding: 0;
   list-style: none;
 }
-
-
 
 @media (prefers-color-scheme: light) {
   :root {
